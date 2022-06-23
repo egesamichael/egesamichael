@@ -1,6 +1,6 @@
 <!-- <img src="https://drive.google.com/file/d/1ql2fL33N417pQJyqBIjzFXwCBevpm91b/view?usp=sharing"/> -->
  
-### Hi there 👋, I'm Egesa Michael. I'm a Software Engineer based in Kampala.<br>
+### Hi there 👋, I'm Egesa Michael. Am a Software Engineer based in Kampala, Uganda.<br>
  
  
 🌱 *Currently Learning*: React Js and Node Js<br>
