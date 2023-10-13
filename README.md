@@ -3,9 +3,9 @@
 ### Hi there 👋, I'm Egesa Michael. Am a Software Engineer based in Kampala, Uganda.<br>
  
  
-🌱 *Currently Learning*: React Js and Node Js<br>
+<!-- 🌱 *Currently Learning*: React Js and Node Js<br>
 🤔 *Looking for mentors*: I'm looking for mentors in Node and React.<br>
-<!-- 💬 Ask me about: how to mentor students, creating a portfolio site for you, or assistance with an application you are working on. <br> -->
+💬 Ask me about: how to mentor students, creating a portfolio site for you, or assistance with an application you are working on. <br> -->
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](devmichaelegesa@gmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/egesamicheal)
