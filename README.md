@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 React Native Developer
 ----------------------
 
-After 4 years of working on Android Native i sort of got into the react native with expo world that was my "Anha moment" I wonder how come i hadn't switched before.
-
 * 🌍  I'm based in Kampala
 * 🖥️  See my portfolio at [My Portfolio](http://egesamichael.dev)
 * ✉️  You can contact me at [hello@egesamichael.dev](mailto:hello@egesamichael.dev)
